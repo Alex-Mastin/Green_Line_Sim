@@ -1,0 +1,13 @@
+To run the simulation, run the main method of TrainSim.java.
+
+All modifications to the system must be performed manually.
+The following variables can be modified:
+  The number of Trains
+  The number of TrainCars per Train
+  The number of TrainEvents
+  
+To ensure that the simulation runs properly:
+  The number of TrainEvents must be the same as the number of Trains
+  Each TrainEvent must be added to the agenda
+  Each train must have the same number of TrainCars. 
+  
