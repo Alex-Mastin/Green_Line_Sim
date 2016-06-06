@@ -9,5 +9,5 @@ The following variables can be modified:
 To ensure that the simulation runs properly:
   The number of TrainEvents must be the same as the number of Trains
   Each TrainEvent must be added to the agenda
-  Each train must have the same number of TrainCars. 
+  Each Train must have the same number of TrainCars. 
   
